@@ -14,7 +14,7 @@ node {
 	
 	//Check out latest code from SVN Repository
 	stage 'Checkout'		
-		checkOut(config);
+		//checkOut(config);
 	
 	// Package, Version and build Project
 	stage 'Build'
