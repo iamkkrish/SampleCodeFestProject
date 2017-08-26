@@ -7,6 +7,7 @@ node {
 	
 	// create test integration folder
     //def integrationTestFolder = "${env.WORKSPACE}/metadatafiles"
+	println "HI"
 	
 	
 	//cleaning jenkins workspace
